@@ -1,0 +1,6 @@
+{
+  "name": "Cabaran Matlamat SMART",
+  "description": "Permainan santai 15 minit untuk membantu memahami matlamat SMART dalam kehidupan harian: menyimpan wang, beli kereta, mencari pekerjaan, dan pengurusan diri di Malaysia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
